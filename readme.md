@@ -1,7 +1,6 @@
 # Passos para replicar este projeto
 
 Siga as seguintes intruções
-Segunda linha
 
 ## 1. primeiro comando
     Setup Node.js package.json
